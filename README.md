@@ -2,6 +2,8 @@
 
 Use SSH key adder to put your SSH key to your remote server authorized_keys list. Just follow instructions !
 
+![Screenshot](https://londres.andredasilva.fr/KXgY0LMj.png) 
+
 ### OS
 
 This bash script (.sh) can be run from any Unix device / Mac terminal
